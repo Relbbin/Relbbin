@@ -1,19 +1,19 @@
 # <p align="center"> [ 0xRelbbin ] </p>
-### <p align="center"> Security Researcher | Low-Level Dev | Malware Analysis & RE Candidate </p>
+### <p align="center"> Computer Engineering Student | Security Researcher | Low-Level Dev </p>
 
 <p align="center">
   <img src="melina_researcher.png" alt="Melina Research Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Studying+Windows+Internals;Learning+Reverse+Engineering;Building+Malware+Labs;Exploring+Kernel+Mode;Bypassing+EDR+%26+AV+Defenses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Studying+Windows+Internals;Learning+Reverse+Engineering;Exploring+Kernel+Mode;Bypassing+EDR+%26+AV+Defenses" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🛠️ **Current Focus & Expertise**
 
-Atualmente mergulhado no estudo de sistemas operacionais e segurança ofensiva. Meu objetivo não é apenas usar ferramentas, mas entender a mecânica por trás da execução de código e manipulação de memória no Windows.
+Atualmente cursando Engenharia da Computação e mergulhado no estudo de sistemas operacionais e segurança ofensiva. Meu objetivo não é apenas usar ferramentas, mas entender a mecânica por trás da execução de código e manipulação de memória no Windows.
 
 * 🔬 **Reverse Engineering (In Training):** Focado em entender o fluxo de controle em Assembly x64 e desconstruir binários PE.
 * ⚔️ **Offensive Development:** Estudando técnicas de evasão e injeção de processos (CPIA) para entender como o software malicioso interage com o subsistema nativo do Windows.
@@ -40,6 +40,7 @@ Documentando minha evolução técnica através das seguintes trilhas em progres
 
 ```c++
 struct Researcher {
+    const char* title          = "Computer Engineering Student";
     const char* languages[]    = {"C++20", "Assembly x86_64", "Haskell"};
     const char* environment[]  = {"Arch Linux", "Gentoo", "Windows Kernel Labs"};
     
@@ -49,7 +50,7 @@ struct Researcher {
         while(grinding) {
             study(REVERSE_ENGINEERING);
             analyze(MALWARE_SAMPLES);
-            evade(MODERN_DEFENSES); // Integrated Desec ED
+            evade(MODERN_DEFENSES);
             if (knowledge >= CRITICAL_MASS) break;
         }
     }
