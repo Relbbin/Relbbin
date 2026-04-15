@@ -1,5 +1,5 @@
 # <p align="center"> [ 0xRelbbin ] </p>
-### <p align="center"> Computer Engineering Student | Security Researcher | Low-Level Dev </p>
+### <p align="center"> IA & Machine Learning Student | Security Researcher </p>
 
 <p align="center">
   <img src="melina_researcher.png" alt="Melina Research Banner" width="100%" />
