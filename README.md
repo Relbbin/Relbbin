@@ -1,12 +1,7 @@
-# <p align="center"> [ 0xRelbbin ] </p>
 ### <p align="center"> IA & Machine Learning Student | Security Researcher </p>
 
 <p align="center">
-  <img src="melina_researcher.png" alt="Melina Research Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Studying+Windows+Internals;Learning+Reverse+Engineering;Exploring+Kernel+Mode;Bypassing+EDR+%26+AV+Defenses" alt="Typing SVG" />
+  <img src="2026-04-21-010615_hyprshot.png" alt="Typing SVG" />
 </p>
 
 ---
