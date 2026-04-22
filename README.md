@@ -8,7 +8,7 @@
 
 ## 🛠️ **Current Focus & Expertise**
 
-Atualmente cursando Bacharelado em Ciência de Dados e mergulhado no estudo de sistemas operacionais e segurança ofensiva. Meu objetivo não é apenas usar ferramentas, mas entender a mecânica por trás da execução de código e manipulação de memória no Windows.
+Atualmente cursando Bacharelado em Ciência da Computação e mergulhado no estudo de sistemas operacionais e segurança ofensiva. Meu objetivo não é apenas usar ferramentas, mas entender a mecânica por trás da execução de código e manipulação de memória no Windows.
 
 * 🔬 **Reverse Engineering (In Training):** Focado em entender o fluxo de controle em Assembly x64 e desconstruir binários PE.
 * ⚔️ **Offensive Development:** Estudando técnicas de evasão e injeção de processos (CPIA) para entender como o software malicioso interage com o subsistema nativo do Windows.
@@ -35,7 +35,7 @@ Documentando minha evolução técnica através das seguintes trilhas em progres
 
 ```c++
 struct Researcher {
-    const char* title          = "Bachelor's degree in data science";
+    const char* title          = "Bachelor's degree in Computer Science";
     const char* languages[]    = {"C++20", "Assembly x86_64", "Haskell"};
     const char* environment[]  = {"Arch Linux", "Gentoo", "Windows Kernel Labs"};
     
