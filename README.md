@@ -1,7 +1,7 @@
 ### <p align="center"> IA & Machine Learning Student | Security Researcher </p>
 
 <p align="center">
-  <img src="2026-04-21-010615_hyprshot.png" alt="Typing SVG" />
+  <img src="2026-04-22-065659_hyprshot.png" alt="Typing SVG" />
 </p>
 
 ---
